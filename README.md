@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">- Alameda Research V2 DAO (daos.world): https://alameda-research-v2.com/<br>- AicroStrategy (daos.world): https://aicrostrategy.com/
+<p align="left">- Alameda Research V2 DAO (daos.world): https://alameda-research-v2.com/<br>- AicroStrategy DAO (daos.world): https://aicrostrategy.com/
 
 ###
 

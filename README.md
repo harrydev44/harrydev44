@@ -14,6 +14,16 @@
 
 ###
 
+###
+
+<h2 align="left">Projects</h2>
+
+###
+
+<p align="left">- Alameda Research V2 DAO (daos.world): https://alameda-research-v2.com/<br>- AicroStrategy (daos.world): https://aicrostrategy.com/
+
+###
+
 <h2 align="left">I code with</h2>
 
 ###
